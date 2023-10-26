@@ -124,7 +124,7 @@
    &trans        &trans           &trans           &trans           &trans                   &kp CAPS      &trans          &trans          &trans         &trans
    &kp LCTRL     &kp LALT         &kp LGUI         &kp LSHFT        &trans                   &kp LEFT      &kp DOWN        &kp UP          &kp RIGHT      &kp COLON
    &trans        &trans           &trans           &trans           &trans                   &kp HOME      &kp PG_DN       &kp PG_UP       &kp END        &kp SEMI
-							                 &trans           &trans                   &trans        &kp TAB
+							                 &trans           &trans                   &kp TAB        &trans
 					>;
 				};
 
