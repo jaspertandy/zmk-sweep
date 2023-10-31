@@ -21,7 +21,7 @@
 #define BTN 7
 
 &lt {
-    flavor = "balanced";
+    flavor = "tap-unless-interrupted";
     tapping-term-ms = <180>;
 };
 
@@ -32,8 +32,8 @@
 				label = "ALPHA_MT";
 				#binding-cells = <2>;
 				tapping-term-ms = <250>;
-				quick-tap-ms = <150>;
-				flavor = "balanced";
+				quick-tap-ms = <200>;
+				flavor = "tap-unless-interrupted";
 				bindings = <&kp>, <&kp>;
 			};
 		};
