@@ -45,7 +45,7 @@
 				wait-ms = <40>;
 				tap-ms = <40>;
 				bindings
-					= <&kp COMMA &kp V &kp P>
+					= <&kp BSLH &kp V &kp P>
 					;
 			};
 			vimux_r: vimux_r {
@@ -55,7 +55,7 @@
 				wait-ms = <40>;
 				tap-ms = <40>;
 				bindings
-					= <&kp COMMA &kp R>
+					= <&kp BSLH &kp R>
 					;
 			};
 			vimux_c: vimux_c {
@@ -65,7 +65,7 @@
 				wait-ms = <40>;
 				tap-ms = <40>;
 				bindings
-					= <&kp COMMA &kp C>
+					= <&kp BSLH &kp C>
 					;
 			};
 			tmux_pp: tmux_pp {
